@@ -15,6 +15,7 @@
             <div class="col-md-12">
                 <div>
                     <h3 class="text-center my-4">ExeShop</h3>
+                    <h4 class="text-center my-4">sini belanja boss</h4>
                     <!-- <h5 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h5>          -->
                     <hr>
                 </div>
